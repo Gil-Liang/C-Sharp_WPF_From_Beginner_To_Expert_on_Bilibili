@@ -1,0 +1,6 @@
+L5：
+
+1. 添加按钮。
+2. 新建窗体。
+3. TopMost属性。
+4. WindowsStartupLocation属性需要跟Owner属性一起使用
