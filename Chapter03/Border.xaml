@@ -6,7 +6,19 @@
         xmlns:local="clr-namespace:Chapter03"
         mc:Ignorable="d"
         Title="Border" Height="450" Width="800">
-    <Grid>
-        <Border BorderThickness="2" BorderBrush="Blue" Background="Red" Height="100" Width="400" CornerRadius="30"></Border>
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+            <ColumnDefinition Width="auto"></ColumnDefinition>
+            <ColumnDefinition Width="2*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Border Grid.Column="2" BorderBrush="Blue" Background="Red" Height="100" Width="400" CornerRadius="30"></Border>
+        <Border Grid.Column="1" Grid.RowSpan="3" BorderBrush="Blue" BorderThickness="1,0,0,0"></Border>
+        <Border Grid.Column="1" Grid.ColumnSpan="3" BorderBrush="Blue" BorderThickness="0,1,0,0"></Border>
     </Grid>
 </Window>

@@ -50,6 +50,10 @@ CornerRaduis属性
 可以作为分割线，可以把Grid、StackPanel和按钮放里面，有圆角效果。
 Border下只能有一个控件。当然也可以像Window控件那样嵌套布局控件。
 
+L11：
+用于分隔
+
+
 
 
 
