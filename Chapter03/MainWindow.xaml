@@ -16,7 +16,7 @@
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
-        <Button Height="20" Width="100">按钮1</Button>
+        <Button Height="20" Width="100" Grid.ColumnSpan="2">按钮1</Button>
         <Button Grid.Row="1" Grid.Column="1" Height="20" Width="100">按钮2</Button>
     </Grid>
 </Window>

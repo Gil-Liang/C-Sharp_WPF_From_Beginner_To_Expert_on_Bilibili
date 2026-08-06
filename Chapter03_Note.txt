@@ -14,3 +14,17 @@ Border是内容控件，作用也是布局
 Grid：行列，默认一行一列
 
 Window下只能有一个控件，Contect属性只是一个对象。
+
+
+L7:
+嵌套
+
+Auto：根据内容调整高度宽度
+
+按比例分配：
+Heigt = "2*"
+Heigt = "1*"
+
+合并：
+Grid.ColumnSpan="2"
+
