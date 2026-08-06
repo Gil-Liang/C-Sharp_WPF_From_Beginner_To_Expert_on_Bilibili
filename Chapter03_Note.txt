@@ -41,3 +41,15 @@ StackPanel
 Margin属性：4个值分别代表左上右下
 
 
+L10：
+Board
+属于装饰器
+BorderThickness属性跟Margin一样，可以有4个值。
+CornerRaduis属性
+
+可以作为分割线，可以把Grid、StackPanel和按钮放里面，有圆角效果。
+Border下只能有一个控件。当然也可以像Window控件那样嵌套布局控件。
+
+
+
+
