@@ -33,4 +33,11 @@ L8：
 GridSplitter
 ShowPreview属性
 
+L9：
+StackPanel
+类似Div
+堆的控件默认垂直摆放，修改Orientation属性
+
+Margin属性：4个值分别代表左上右下
+
 
