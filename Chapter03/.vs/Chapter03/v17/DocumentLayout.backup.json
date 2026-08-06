@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D854554E-9C7F-4ED9-955D-7300966D43A3}|Chapter03.csproj|e:\\github\\c-sharp_wpf_from_beginner_to_expert_on_bilibili\\chapter03\\uniformgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D854554E-9C7F-4ED9-955D-7300966D43A3}|Chapter03.csproj|solutionrelative:uniformgrid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D854554E-9C7F-4ED9-955D-7300966D43A3}|Chapter03.csproj|e:\\github\\c-sharp_wpf_from_beginner_to_expert_on_bilibili\\chapter03\\dockpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D854554E-9C7F-4ED9-955D-7300966D43A3}|Chapter03.csproj|solutionrelative:dockpanel.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -39,6 +43,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UniformGrid.xaml",
+              "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\UniformGrid.xaml",
+              "RelativeDocumentMoniker": "UniformGrid.xaml",
+              "ToolTip": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\UniformGrid.xaml",
+              "RelativeToolTip": "UniformGrid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-06T06:05:19.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DockPanel.xaml",
               "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\DockPanel.xaml",
               "RelativeDocumentMoniker": "DockPanel.xaml",
@@ -50,19 +66,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WrapPanel.xaml",
               "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\WrapPanel.xaml",
               "RelativeDocumentMoniker": "WrapPanel.xaml",
               "ToolTip": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\WrapPanel.xaml",
               "RelativeToolTip": "WrapPanel.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-08-06T03:58:50.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-06T03:58:50.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Border.xaml",
               "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\Border.xaml",
               "RelativeDocumentMoniker": "Border.xaml",
@@ -73,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GridSplitter.xaml",
               "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\GridSplitter.xaml",
               "RelativeDocumentMoniker": "GridSplitter.xaml",
@@ -84,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -95,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\GitHub\\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\\Chapter03\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",

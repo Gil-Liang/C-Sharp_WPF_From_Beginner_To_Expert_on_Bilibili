@@ -10,6 +10,9 @@
     <Compile Update="Border.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Canvas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="DockPanel.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -25,6 +28,9 @@
   </ItemGroup>
   <ItemGroup>
     <Page Update="Border.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Canvas.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="DockPanel.xaml">

@@ -67,6 +67,13 @@ L14：
 UniformGrid
 自动定义行列
 
+L15:
+Canvas
+按照ZIndex显示
+
+
+StackPanel, Gird, Canvas比较常用
+
 
 
 
