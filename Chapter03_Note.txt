@@ -1,0 +1,16 @@
+L6:
+
+Grid
+StackPanel
+WrapPanel
+DockPanel
+UniformGrid
+Canvas
+一般的布局控件继承Panel
+
+Border是内容控件，作用也是布局
+拖动窗体：空格键 + 鼠标拖动
+
+Grid：行列，默认一行一列
+
+Window下只能有一个控件，Contect属性只是一个对象。
