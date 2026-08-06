@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 E:\GitHub\C-Sharp_WPF_From_Beginner_To_Expert_on_Bilibili\Chapter03\App.xaml
-5318031545
+6-2111512119
 
-10363259228
+11421317695
 1981124507420
-Border.xaml;DockPanel.xaml;GridSplitter.xaml;MainWindow.xaml;WrapPanel.xaml;
+Border.xaml;DockPanel.xaml;GridSplitter.xaml;MainWindow.xaml;UniformGrid.xaml;WrapPanel.xaml;
 
 True
 
