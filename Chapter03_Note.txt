@@ -53,6 +53,12 @@ Border下只能有一个控件。当然也可以像Window控件那样嵌套布�
 L11：
 用于分隔
 
+L12:
+WrapPanel
+布局超出范围时，自动换行。（跟StackPanel形成鲜明的对比）
+也有Orientation属性。
+可以直接使用Panel，不用Grid。
+
 
 
 
