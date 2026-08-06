@@ -28,3 +28,9 @@ Heigt = "1*"
 合并：
 Grid.ColumnSpan="2"
 
+
+L8：
+GridSplitter
+ShowPreview属性
+
+
