@@ -59,6 +59,9 @@ WrapPanel
 也有Orientation属性。
 可以直接使用Panel，不用Grid。
 
+L13：
+DockPanel
+
 
 
 

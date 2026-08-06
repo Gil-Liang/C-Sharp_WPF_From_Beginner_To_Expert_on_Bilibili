@@ -6,19 +6,19 @@
         xmlns:local="clr-namespace:Chapter03"
         mc:Ignorable="d"
         Title="WrapPanel" Height="450" Width="800">
-    <Grid>
-        <WrapPanel>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-            <Button Width="100">Button</Button>
-        </WrapPanel>
-    </Grid>
+
+    <WrapPanel>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+        <Button Width="100">Button</Button>
+    </WrapPanel>
+
 </Window>
