@@ -6,3 +6,12 @@ L16
 4. 附加属性
 5. 继承
 
+
+L17
+4大类控件：Shape、Panel、ContentControl、ItemsControl，它们都继承FrameworkElement，也继承自UIElement，也都是DependencyObject的后代。
+
+要提供依赖属性，最少也得继承DependencyObject。
+输入propdp后按两下Tab能自动生成依赖属性的代码。
+
+手写3个步骤：
+定义、注册、包装
